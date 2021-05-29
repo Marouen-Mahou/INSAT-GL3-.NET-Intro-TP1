@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TP1_Gestion_des_compte
+namespace TP1_Gestion_des_comptes
 {
     class Compte
     {
